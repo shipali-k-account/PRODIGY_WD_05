@@ -24,15 +24,4 @@ Get real-time weather updates by simply entering the name of a state. This simpl
 Frontend: HTML, CSS, JavaScript
 API: [OpenWeatherMap](https://openweathermap.org/)
 
-🔑 API Key
-
-This project uses the OpenWeatherMap API. If you want to run this project with your own API key:
-
-1. Go to [https://openweathermap.org/](https://openweathermap.org/)
-2. Sign up and get a free API key
-3. Replace the existing API key in `script.js`:
-
-```javascript
-const apiKey = "YOUR_API_KEY_HERE";
-
 

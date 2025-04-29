@@ -6,7 +6,7 @@ Get real-time weather updates by simply entering the name of a state. This simpl
 
 ✨ Features
 🔍 Search by state
-🌡️ Real-time temperature, weather       conditions, and more
+🌡️ Real-time temperature, weather conditions, and more
 🌐 Powered by OpenWeatherMap API
 💻 Clean and responsive UI
 ⚡ Fast and lightweight

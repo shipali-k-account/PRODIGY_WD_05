@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 230px;
+}
+
+.contanier{
+    background-color: white;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    background:url('images/cloud.jpg');
+    background-size: cover;
+    
+
+}
+h1{
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-weight: bold;
+    color: #111010;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+input{
+    padding: 15px;
+    width: 200px;
+    border-radius: 8px;
+    border: 1px soild #131111;
+  
+    
+}
+button{
+    padding: 15px;
+    margin-right: 15px;
+    background-color: rgb(19, 236, 240);
+    color:black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 10px;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button:hover{
+    background-color: aqua;
+   
+}
+#Weather{
+    margin-top: 10px;
+    font-size: 58px;
+    margin-left: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#weather h2 {
+    margin-bottom: 15px; 
+    
+}
+#weather p {
+    margin: 8px 0; 
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    margin-top: 15px;
+}
+i {
+    margin-right: 8px;
+    color: #b2de23;
+}
